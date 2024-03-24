@@ -4,8 +4,3 @@ This code serves as a basis for creating Telegram bots with Java and provides a 
 It create customised bots for various purposes, such as automatic notifications, message updates or interactive chatbots.
 
 This Telegram Bot contains my CV information.
-
-
-!!!!!!!!!!! You need to log in Telegram ---> https://web.telegram.org/k/ and add this to search string to find a bot! ---> @Oleksandr_Radionenko_InfoBot !!!!!!!!!!!
-
-Start program and BOT will become working!
